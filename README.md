@@ -1,7 +1,11 @@
-
 # Hi, I'm Ben 
 
-<img src="./images/kamek.gif" width="100" />
+<table>
+  <tr>
+    <td><img src="./images/kamek.gif" width="100" /></td>
+    <td>Hi, I'm Ben</td>
+  </tr>
+</table>
 
 Welcome to my GitHub! I'm a developer who enjoys working on a variety of tech-related projects, especially when it comes to the entire system architecture. This profile is a collection of my work, open-source contributions, and personal projects.
 
@@ -10,7 +14,6 @@ I am a developer based in Utah, with a strong interest in C# and systems as a wh
 
 - 🌱 I’m currently attempting to start a business on the side.
 - 💼 I’m working at Associated Food Stores.
-
 
 ## 🌟 Featured Projects
 
