@@ -1,11 +1,25 @@
 # Hi, I'm Ben 
 
-<table style="border: none;">
-  <tr>
-    <td style="border: none;"><img src="./images/kamek.gif" width="100" /></td>
-    <td style="border: none;">Hi, I'm Ben</td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between;">
+
+<div style="width: 48%;">
+
+### About Me
+Hi, I'm Ben Burge! I'm passionate about development, learning new technologies, and building impactful projects. Always eager to grow and collaborate!
+
+</div>
+
+<div style="width: 48%;">
+
+### Technologies
+- **Languages:** C#, JavaScript, Python  
+- **Frameworks:** .NET, Node.js, React  
+- **Tools:** Docker, Git, Visual Studio Code, Azure  
+
+</div>
+
+</div>
+
 
 Welcome to my GitHub! I'm a developer who enjoys working on a variety of tech-related projects, especially when it comes to the entire system architecture. This profile is a collection of my work, open-source contributions, and personal projects.
 
