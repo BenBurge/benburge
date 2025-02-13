@@ -1,9 +1,9 @@
 # Hi, I'm Ben 
 
-<table>
+<table style="border: none;">
   <tr>
-    <td><img src="./images/kamek.gif" width="100" /></td>
-    <td>Hi, I'm Ben</td>
+    <td style="border: none;"><img src="./images/kamek.gif" width="100" /></td>
+    <td style="border: none;">Hi, I'm Ben</td>
   </tr>
 </table>
 
