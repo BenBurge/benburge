@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ben 👋
 
-<!--
-**BenBurge/benburge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a developer who enjoys working on a variety of tech-related projects, especially when it comes to the entire system architecture. This profile is a collection of my work, open-source contributions, and personal projects.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I am a developer based in Utah, with a strong interest in C# and systems as a whole. I am always eager to learn new things and improve my skills, whether it’s through personal projects, contributing to open-source, or collaborating with others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently attempting to start a business on the side.
+- 💼 I’m working at Associated Food Stores.
+
+## 🌟 Featured Projects
+
+Here are some of my standout repositories:
+
+1. [**Medium.Articles.FeatureFlags**](https://github.com/BenBurge/Medium.Articles.FeatureFlags)  
+   A feature management system for .NET using a REST API.  
+   - Technologies: .NET, REST API, Feature Flags
