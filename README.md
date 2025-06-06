@@ -5,7 +5,6 @@ Welcome to my GitHub! I'm a developer who enjoys working on a variety of tech-re
 ## 👨‍💻 About Me
 I am a developer based in Utah, with a strong interest in C# and systems as a whole. I am always eager to learn new things and improve my skills, whether it’s through personal projects, contributing to open-source, or collaborating with others.
 
-- 🌱 I’m currently attempting to start a business on the side.
 - 💼 I’m working at Associated Food Stores.
 
 ## 🌟 Featured Projects
